@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 07:57:36 UTC 2021
+redshift-jdbc42-no-awssdk-1.2.34.1058.jar>redshift=
+redshift-jdbc42-no-awssdk-1.2.34.1058.pom>redshift=

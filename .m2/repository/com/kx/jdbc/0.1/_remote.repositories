@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 08:01:35 UTC 2021
+jdbc-0.1.jar>=
+jdbc-0.1.pom>=

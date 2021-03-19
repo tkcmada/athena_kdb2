@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 08:02:46 UTC 2021
+athena-jdbc-1.0.jar>=
+athena-jdbc-1.0.pom>=
